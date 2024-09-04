@@ -1,6 +1,6 @@
 package main
 
-import "GoLearnDemo/vessel"
+import "GoLearnDemo/timeLearn"
 
 func main() {
 	//vessel.ArrayLearn()
@@ -8,5 +8,8 @@ func main() {
 	//vessel.SliceLearn()
 	//vessel.MapLearn()
 	//vessel.SyncMapLearn()
-	vessel.NilLearn()
+	//vessel.NilLearn()
+	timeLearn.LearnTimeFunction()
+	//file.LearnFile()
+	//json1.LearnJson()
 }

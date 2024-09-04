@@ -1,0 +1,2 @@
+this is a file content
+这是文件的内容
